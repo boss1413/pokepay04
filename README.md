@@ -2,7 +2,7 @@
 
 **办理实体万事达u卡可以在pokepay平台办理，卡片可以atm取现，具体流程如下：**
 
-# 注册并下载应用：
+## 注册并下载应用：
 - 访问Pokepay官方网站 https://app.pokepay.cc/pages/passport/register?r=155328
 - 填写信息注册账号并登陆，pokepay邀请码是155328
 
